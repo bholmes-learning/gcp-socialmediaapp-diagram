@@ -1,4 +1,4 @@
-Architecture:
+ARCHITECTURE:
 
 Presentation Tier (Frontend):
 1) Components:Web browser, Mobile app.
@@ -14,6 +14,8 @@ Data Tier (Database):
 3) User Interaction: Users interact with the website or mobile app to create profiles, post updates, and comment/like posts.
 4) Business Logic: The backend server handles user authentication, post creation, and social interactions.
 5) Data Storage: User profiles, posts, comments, and likes are stored in the database, with frequently accessed data cached for performance. Flow:
+
+========================================================================================
 
 APP FLOW : 
 1) User logs in to the social media application via the website or mobile app.
