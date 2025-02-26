@@ -15,6 +15,7 @@ Data Tier (Database):
 4) Business Logic: The backend server handles user authentication, post creation, and social interactions.
 5) Data Storage: User profiles, posts, comments, and likes are stored in the database, with frequently accessed data cached for performance. Flow:
 
+APP FLOW : 
 1) User logs in to the social media application via the website or mobile app.
 2) Frontend requests the user's feed from the backend.
 3) Backend retrieves posts from the database and caches frequently accessed posts in Redis.
